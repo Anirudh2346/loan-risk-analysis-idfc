@@ -1,34 +1,10 @@
-# loan-risk-analysis-idfc
+# Loan Risk Analysis - IDFC Bank
 This project focuses on analyzing loan applicant data from IDFC Bank to understand demographic, financial, and behavioral factors influencing loan risk.
 Using Python-based data analysis, the project explores relationships among key variables such as income, age, experience, house ownership, and risk flag.
 It helps in identifying low-risk, high-value customer segments, revealing regional trends, and deriving actionable insights for smarter decision-making.
 
-📂 Repository Structure
-loan-risk-analysis-idfc/
-│
-├── data/
-│   └── Training Data.csv             # Raw dataset used for analysis
-│
-├── notebooks/
-│   └── IDFC Loan Data (4).ipynb      # Main Jupyter notebook with analysis
-│
-├── visuals/
-│   ├── income_distribution.png       # Example of plots (add saved charts here)
-│   ├── profession_treemap.png
-│   └── correlation_heatmap.png
-│
-├── README.md                         # Project documentation
-│
-├── requirements.txt                  # Python dependencies
-│
-└── LICENSE                           # (Optional) License for open-source sharing
-
-🧠 README.md (Professional GitHub Version)
-# Loan Risk Analysis - IDFC Bank
-
 ## 📊 Project Overview
 This project focuses on **analyzing loan applicant data** from IDFC Bank to understand customer demographics, financial attributes, and behavioral factors that influence loan risk.
-
 The main goal is to uncover insights that can help identify **low-risk, high-value customers** and support **data-driven decision-making** for financial institutions.
 
 ---
@@ -156,11 +132,6 @@ Palavalasa Sai
 
 📜 License
 
-This project is open-source and available under the MIT License
-.
-
+This project is open-source and available under the MIT License.
 
 ---
-
-Would you like me to **generate the `requirements.txt`** (based on your notebook imports) too?  
-It’ll make your GitHub repo more professional and runnable on other systems.
