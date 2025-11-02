@@ -150,7 +150,7 @@ Integrate with real-time loan approval systems.
 👨‍💻 Author
 
 Palavalasa Sai
-📧 [your.email@example.com
+📧 [palavalasasai42@gmail.com
 ]
 💼 Data Analytics Enthusiast | Python | SQL | Visualization
 
